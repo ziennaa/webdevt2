@@ -34,6 +34,9 @@ are ranked in search engines and how accesible it is to users. the practice of u
 Some HTML elements do not have closing tag
 `<br>` or `<img>`. These are called void elements since theyre void of any content
 
+# files
+https://ziennaa.github.io/webdevt2/
+
 
 
 
