@@ -15,7 +15,7 @@ clicking the above link doesnt do anything, anchor doesnt know where to link to 
 <br> specifies where the linked resource will be opened. If it is not present, then, by default, it will take on the `_self` value which opens the link in the current tab. To open the link in a new tab or window (depends on browser settings) we can set it to `_blank` as follows:
 ```html
 <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project</a>
-'''
+```
  `rel` attribute above this attribute is used to describe the relation between the current page and the linked document.
 
 ## Links
