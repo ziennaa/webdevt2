@@ -1,7 +1,7 @@
 # Working with Text
-. creating paragraphs
-. creating headings
-. create bold text
-. create italicized text
-. relationship between nested elements
-. create html comments
+<br> . creating paragraphs
+<br> . creating headings
+<br> . create bold text
+<br> . create italicized text
+<br> . relationship between nested elements
+<br> . create html comments
