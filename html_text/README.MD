@@ -42,3 +42,13 @@ these headings range from `<h1>` to `<h6>`. Numbers like 1 and 6 basically repre
 ## Nesting and indentation
 in HTML, nesting elements creates a paerent-child relationship. The parent contains other elements, while the nested elements are children. Elements at the same level like two paragraphs inside `<body>` is the parent and `<p>` is its child.
 
+## HTML Comments
+HTML comments are not visible to the browser, they allow us to comment on our code so that we or other devlopers can see and read. 
+```html
+<!-- I am an html comment -->
+
+<p>Some paragraph text</p>
+
+<!-- I am another html comment -->
+
+```
