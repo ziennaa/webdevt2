@@ -28,14 +28,14 @@ these headings range from `<h1>` to `<h6>`. Numbers like 1 and 6 basically repre
 ## Strong Element
 `<strong>` element makes the text bold
 <br> marks text as important
-'''html
+```html
 <strong>Lorem ipsum dolor</strong>
-'''
+```
 
 ## Em Element
 `<em>` makes the the text italic, emphasis the text.
-'''html
+```html
 <em>Some emphasized text</em>
-'''
+```
 <br><em>Some emphasized text</em>
 
