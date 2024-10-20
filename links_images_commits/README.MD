@@ -1,6 +1,7 @@
 # Links and Images in HTML
 
-## Links: Links: Use the `<a>` (anchor) tag to create links in HTML. The `href` attribute specifies the destination URL, and target="_blank" opens links in new tabs. 
+## Links
+Links: Use the `<a>` (anchor) tag to create links in HTML. The `href` attribute specifies the destination URL, and target="_blank" opens links in new tabs. 
 <br> Types of Links:
 <br> Absolute Links link to external sites with full URLs.
 <br> Relative Links link to internal pages using file paths.
