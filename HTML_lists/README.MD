@@ -15,9 +15,9 @@ used when order of the items doesn't matter
   <li>Item 3</li>
 </ul>
 ```
-. Item 1
-. Item 2
-. Item 3
+<br> . Item 1
+<br> . Item 2
+<br> . Item 3
 
 ## b) Creating an Ordered List
 used when order of the items matter
