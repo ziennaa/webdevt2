@@ -30,7 +30,7 @@ Use the `<img>` tag to display images, with src for the image location and alt f
 # COMMIT MESSAGES
 Importance of Good Commit Messages: Clear, meaningful commit messages help track changes, assist other developers, and improve job prospects.
 <br> Structure:
-<br> Subject: A brief description (within 72 characters) of the change.
+<br> Subject: A brief description of the change.
 <br> Body: Explain the problem and how it was fixed.
 When to Commit: Commit frequently when a meaningful change or bug fix is made to maintain a clean, traceable history.
 Best Practices: Separate subject and body with a blank line and avoid vague commit messages like "fix a bug."
