@@ -9,6 +9,7 @@ CSS basically adds design to the web page
 CSS: Cascading Style Sheets
 <br>
 JavaScript basically increases the interactivity of the web page
+### below is the project odin recepie website link
 
 # Elements and tags
 elements are a piece of content wrapped in opemning and closing HTML tags. 
@@ -34,7 +35,8 @@ are ranked in search engines and how accesible it is to users. the practice of u
 Some HTML elements do not have closing tag
 `<br>` or `<img>`. These are called void elements since theyre void of any content
 
-# files
+# the odin recepie project
+After learning the fundamentals of HTML, I created a small recipe website. It has three popular recipes: pizza, burgers, and lasagna. It's quite basic. we can view each dish's dedicated page, where I've included the ingredients and simple instructions, click on it. Ideal for anyone wishing to sample something delicious!
 https://ziennaa.github.io/webdevt2/
 
 
